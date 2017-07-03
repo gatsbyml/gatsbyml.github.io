@@ -14,18 +14,23 @@ Mondays 1:30pm-3pm at Gatsby 3th floor seminar room at Sainsbury Wellcome Centre
 ## Events
 
 <style>
+    td {
+        margin: 0;
+        padding: 5px;
+    
+    }
 </style>
 
 
-<p style="font-size: 0.8em; color: gray;">
+<p style="font-size: 0.8em; color: black;">
 Updated: {{ site.time | date: "%d-%b-%y" }}  <br>
 </p>
 
 <table>
     <tr>
-        <th style="width: 7em;">Date</th>
+        <th style="width: 15%;">Date</th>
         <th>Presenter</th>
-        <th>Topic</th>
+        <th style="width: 40%;">Topic</th>
         <th>Reading</th>
         <th>Supplement</th>
     </tr>
@@ -33,8 +38,8 @@ Updated: {{ site.time | date: "%d-%b-%y" }}  <br>
     {% for talk in site.data.events %}
     <tr>
         <td>{{ talk.date | date_to_string }}</td>
-        <td>{{ talk.presenter}}</td>
-        <td>{{ talk.topic }}</td>
+        <td>{{ talk.presenter | markdownify }}</td>
+        <td>{{ talk.topic | markdownify }}</td>
         <td>{{ talk.reading | markdownify }}</td>
         <td>{{ talk.supplement | markdownify }}</td>
     </tr>
@@ -45,3 +50,4 @@ Updated: {{ site.time | date: "%d-%b-%y" }}  <br>
 <!--{% if talk.at %}-->
 <!--at {{ talk.at | markdownify }}-->
 <!--{% endif %}-->
+

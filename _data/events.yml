@@ -1,10 +1,200 @@
--   date: 26/06/2016
+- date: 3/7/2016
+  presenter: Maneesh
+  topic: Deep Gaussian Processes for Regression using Approximate Expectation Propagation
+  reading: >
+      [Bui et al., 2016](https://arxiv.org/abs/1602.04133)
+  supplement: >
+      [whiteboard](assets/supplement/deep_gp_appro_ep.jpg)
+
+
+- date: 19/6/2016
+  presenter: Michael
+  topic: Local Group Invariant Representations via Orbit Embeddings
+  reading: >
+      [Raj et al., 2017](http://proceedings.mlr.press/v54/raj17a.html)
+
+
+- date: 12/6/2016
+  presenter: > 
+      [Chris J. Maddison](http://www.stats.ox.ac.uk/~cmaddis/)
+  topic: Filtering Variational Objectives
+  reading: > 
+      [Maddison et al., 2017](https://arxiv.org/abs/1705.09279)
+
+- date: 5/6/2016
+  presenter: Wenkai
+  topic: Conditional Mean Embeddings for Model-Based Reinforcement 
+  reading: >
+      [Lever et al., 2016](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12436/11804)
+
+
+- date: 8/5/2016
+  presenter: >
+      [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=it)
+  topic: A Consistent Regularization Approach for Structured Prediction
+  reading: >
+      [Ciliberto et al., 2016](http://papers.nips.cc/paper/6093-a-consistent-regularization-approach-for-structured-prediction)
+
+
+- date: 10/4/2016
+  presenter: Dougal
+  topic: >
+      *  Wasserstein GAN
+
+      * Improved Training of Wasserstein GANs.
+
+      * Generalization and Equilibrium in Generative Adversarial Nets (GANs)
+  reading:  >
+    [Arjovsky et al., 2017](https://arxiv.org/abs/1701.07875), [Gulrajani et al., 2017](https://arxiv.org/abs/1704.00028), [Arora et al., 2017](https://arxiv.org/abs/1703.00573)
+
+
+- date: 3/4/2016
+  presenter: Heiko
+  topic: Variational Fourier features for Gaussian processes
+  reading: >
+      [Hensman et al., 2016](https://arxiv.org/abs/1611.06740)
+
+- date: 20/3/2016
+  presenter: >
+      [Kenji Fukumizu](http://www.ism.ac.jp/~fukumizu/)
+
+- date: 27/2/2016
+  presenter: Dougal
+  topic: >
+      * Equality of Opportunity in Supervised Learning. 
+
+      * Inherent Trade-Offs in the Fair Determination of Risk Scores.
+
+      * Fair prediction with disparate impact: A study of bias in recidivism prediction instruments.
+  reading: > 
+      [Hardt et al., 2016](https://arxiv.org/abs/1610.02413), [Kleinberg et al., 2017](https://arxiv.org/abs/1609.05807), [Chouldechova 2016](https://arxiv.org/abs/1610.07524)
+
+
+
+- date: 20/2/2016
+  presenter: Wenkai
+  topic: >
+      * Showing versus doing: Teaching by demonstration
+
+      * Teaching with rewards and punishments: Reinforcement or communication?.
+  reading: >
+      [Ho et al., 2016](https://papers.nips.cc/paper/6413-showing-versus-doing-teaching-by-demonstration), [Ho et al., 2015](https://www.semanticscholar.org/paper/Teaching-with-Rewards-and-Punishments-Ho-Littman/16b094dd8ce70ce4a73886de1bbbcf0472805ada)
+
+
+- date: 13/2/2016
+  presenter: Michael
+  topic: Conditioning as disintegration
+  reading: >
+      [Chang & Pollard, 1995](http://www.stat.yale.edu/~jtc5/papers/ConditioningAsDisintegration.pdf)
+
+- date: 6/2/2016
+  presenter: >
+      [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
+  topic: "RedQueen: An Online Algorithm for Smart Broadcasting in Social Networks"
+
+- date: 16/1/2016
+  presenter: Wittawat 
+  topic: Examples are not Enough, Learn to Criticize! Criticism for Interpretability 
+  reading: >
+      [Kim et al., 2016](http://people.csail.mit.edu/beenkim/papers/KIM2016NIPS_MMD.pdf)
+  supplement: >
+      [slides](assets/supplement/mmd_critic.pdf)
+
+
+- date: 19/12/2016
+  presenter: Maneesh
+  topic: Composing graphical models with neural networks for structured representations and fast inference
+  reading: > 
+      [Johnson et al., 2016](https://papers.nips.cc/paper/6379-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference)
+
+
+- date: 12/12/2016
+  presenter: > 
+      [Byron Boots](http://www.cc.gatech.edu/~bboots3/)
+  topic: Incremental Variational Sparse Gaussian Process Regression
+  reading: >
+      [Cheng & Boots, 2016](http://papers.nips.cc/paper/6473-incremental-variational-sparse-gaussian-process-regression)
+
+
+
+- date: 28/11/2016
+  presenter: Dougal
+  topic: >
+      * Towards Principled Methods for Training Generative Adversarial Networks
+
+      * Mode Regularized Generative Adversarial Networks
+  reading: >
+      * [Arjovsky, Bottou, 2017](https://openreview.net/forum?id=Hk4_qw5xe),
+
+      * [Che et al., 2017](https://openreview.net/forum?id=HJKkY35le)
+
+- date: 22/11/2016
+  presenter: >
+      [Krzysztof Choromanski](http://www.kchoromanski.com/)
+  topic:  A tale of P-matrices and TripleSpinners - the unreasonable effectiveness of structured models in nonlinear embeddings 
+
+- date: 14/11/2016
+  presenter: >
+      [Shakir Mohamed](http://shakirm.com/), [Balaji Lakshminarayanan](http://www.gatsby.ucl.ac.uk/~balaji/), Dougal
+  topic: >
+      * Learning in Implicit Generative Models
+
+      * Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy
+  reading: >
+      [Mohamed & Lakshminarayanan, 2016](https://arxiv.org/abs/1610.03483), 
+      [Sutherland et al., 2016](https://openreview.net/forum?id=HJWHIKqgl)
+
+
+
+- date: 7/11/2016
+  presenter: Heiko
+  topic: On Markov chain Monte Carlo methods for tall data
+  reading: >
+      [Bardenet et al., 2015](https://arxiv.org/abs/1505.02827)
+
+- date: 31/10/2016
+  presenter: Wittawat
+  topic: Determinantal point processes for machine learning
+  reading: >
+      [Kulesza & Taskar, 2012](https://arxiv.org/abs/1207.6083)
+  supplement: >
+      [slides](assets/supplement/dpp_wittawat.pdf)
+
+
+- date: 24/10/2016
+  presenter: Lea 
+  topic: Variational Latent Gaussian Process for Recovering Single-Trial Dynamics from Population Spike Trains
+  reading: >
+      [Zhao & Park, 2016](https://arxiv.org/abs/1604.03053)
+
+- date: 17/10/2016
+  presenter: Elena
+  topic: Gaussian Processes for Big Data
+  reading: >
+      [Hensman et al., 2013](http://www.auai.org/uai2013/prints/papers/244.pdf)
+
+
+- date: 10/10/2016
+  presenter: Kevin Li
+  topic: >
+      * Deep Generative Stochastic Networks Trainable by Backprop
+
+      * Generative Adversarial Networks.
+
+      * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
+  reading: >
+      [Bengio et al., 2014](http://jmlr.org/proceedings/papers/v32/bengio14.html), [Goodfellow et al., 2014](https://arxiv.org/abs/1406.2661), [Chen et al., 2016](https://arxiv.org/abs/1606.03657)
+  supplement: >
+      [slides](assets/supplement/GenerativeNetworks_kevinli.pptx)
+
+
+-   date: 26/09/2016
     presenter: Joana
     topic: Bayesian model selection and information criteria
     reading: 
     supplement: 
 
--   date: 19/06/2016
+-   date: 19/09/2016
     presenter: Aapo
     topic: Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA
     reading: > 
