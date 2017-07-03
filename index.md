@@ -8,8 +8,12 @@ layout: home
 ---
 
 ## Time & Location
-Mondays 1:30pm-3pm at Gatsby 3th floor seminar room at Sainsbury Wellcome Centre
-46 Cleveland Street. London. W1T 4JG.
+Usually on Monday 1:30pm-3pm at the [Gatsby Unit,
+UCL](http://www.gatsby.ucl.ac.uk/) 3th floor seminar room. Please subscribe to
+[our mailing
+list](https://groups.google.com/forum/#!forum/gatsby-ml-reading-group) to
+receive announcements of upcoming talks. To enter the building, see
+[here](about/).
 
 ## Events
 
@@ -18,6 +22,10 @@ Mondays 1:30pm-3pm at Gatsby 3th floor seminar room at Sainsbury Wellcome Centre
         margin: 0;
         padding: 5px;
     
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
     }
 </style>
 
