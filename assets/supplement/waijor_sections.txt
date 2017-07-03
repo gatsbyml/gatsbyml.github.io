@@ -1,0 +1,79 @@
+This file contains a table of contents of 
+"Graphical Models, Exponential Families, and Variational Inference" 
+by Wainwright & Jordan, semi-automatically extracted by Wittawat Jitkrittum.
+----------------------------------------------------------------------------
+
+Abstract
+1 Introduction
+2 Background
+2.1 Probability Distributions on Graphs
+2.2 Conditional Independence
+2.3 Statistical Inference and Exact Algorithms
+2.4 Applications
+2.5 Exact Inference Algorithms
+2.6 Message-passing Algorithms for Approximate Inference
+3 Graphical Models as Exponential Families
+3.1 Exponential Representations via Maximum Entropy
+3.2 Basics of Exponential Families
+3.3 Examples of Graphical Models in Exponential Form
+3.4 Mean Parameterization and Inference Problems
+3.5 Properties of A
+3.6 Conjugate Duality: Maximum Likelihood and
+3.7 Computational Challenges with High-Dimensional
+4 Sum-Product, Bethe–Kikuchi, and
+4.1 Sum-Product and Bethe Approximation
+4.2 Kikuchi and Hypertree-based Methods
+4.3 Expectation-Propagation Algorithms
+5 Mean Field Methods
+5.1 Tractable Families
+5.2 Optimization and Lower Bounds
+5.3 Naive Mean Field Algorithms
+5.4 Nonconvexity of Mean Field
+5.5 Structured Mean Field
+6 Variational Methods in Parameter Estimation
+6.1 Estimation in Fully Observed Models
+6.2 Partially Observed Models and
+6.3 Variational Bayes
+7 Convex Relaxations and Upper Bounds
+7.1 Generic Convex Combinations and Convex Surrogates
+7.2 Variational Methods from Convex Relaxations
+7.3 Other Convex Variational Methods
+7.4 Algorithmic Stability
+7.5 Convex Surrogates in Parameter Estimation
+8 Integer Programming, Max-product, and Linear
+8.1 Variational Formulation of Computing Modes
+8.2 Max-product and Linear Programming on Trees
+8.3 Max-product For Gaussians and Other Convex
+8.4 First-order LP Relaxation and Reweighted
+8.5 Higher-order LP Relaxations
+9 Moment Matrices, Semideﬁnite Constraints, and
+9.1 Moment Matrices and Their Properties
+9.2 Semideﬁnite Bounds on Marginal Polytopes
+9.3 Link to LP Relaxations and Graphical Structure
+9.4 Second-order Cone Relaxations
+10 Discussion
+
+Acknowledgments
+
+Appendix
+A Background Material
+A.1 Background on Graphs and Hypergraphs
+A.2 Basics of Convex Sets and Functions
+B Proofs and Auxiliary Results: Exponential
+B.1 Proof of Theorem 3.3
+B.2 Proof of Theorem 3.4
+B.3 General Properties of M and A^*
+B.4 Proof of Theorem 4.2(b)
+B.5 Proof of Theorem 8.1
+C Variational Principles for Multivariate Gaussians
+C.1 Gaussian with Known Covariance
+C.2 Gaussian with Unknown Covariance
+C.3 Gaussian Mode Computation
+D Clustering and Augmented Hypergraphs
+D.1 Covering Augmented Hypergraphs
+D.2 Speciﬁcation of Compatibility Functions
+E Miscellaneous Results
+E.1 M¨obius Inversion
+E.2 Auxiliary Result for Proposition 9.3
+E.3 Conversion to a Pairwise Markov Random Field
+References

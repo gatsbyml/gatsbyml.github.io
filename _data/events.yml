@@ -1,0 +1,398 @@
+-   date: 26/06/2016
+    presenter: Joana
+    topic: Bayesian model selection and information criteria
+    reading: 
+    supplement: 
+
+-   date: 19/06/2016
+    presenter: Aapo
+    topic: Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA
+    reading: > 
+        [Hyvarinen & Morioka, 2016](https://arxiv.org/abs/1605.06336)
+    supplement: 
+
+- date: 5 Sep 2016
+  presenter: Wittawat
+  topic: Gaussian Process Random Fields
+  reading: >
+    [Moore & Russell, 2015](http://papers.nips.cc/paper/5874-gaussian-process-random-fields "http://papers.nips.cc/paper/5874-gaussian-process-random-fields")
+
+- date: 25 July 2016
+  presenter: Arthur
+  topic: Training Input-Output Recurrent Neural Networks through Spectral Methods
+  reading: >
+    [Sedghi & Anandkumar, 2016](https://arxiv.org/abs/1603.00954 "https://arxiv.org/abs/1603.00954")
+
+- date: 18 July 2016
+  presenter: Gergo
+  topic: Geometry of nonlinear least squares with applications to sloppy models and optimization
+  reading: > 
+    [Transtrum et al., 2011](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.036701 "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.036701")
+
+- date: 11 July 2016
+  presenter: Vincent
+  topic: A Unifying Framework for Sparse Gaussian Process Approximation using Power Expectation Propagation
+  reading: >
+    [Bui et al., 2016](https://arxiv.org/abs/1605.07066 "https://arxiv.org/abs/1605.07066")
+
+- date: 27 June 2016
+  presenter: Zoltan
+  topic: General notions of statistical depth function
+  reading: > 
+    [Zuo & Serfling, 2000](https://projecteuclid.org/euclid.aos/1016218226 "https://projecteuclid.org/euclid.aos/1016218226")
+  supplement: >
+    [slides](assets/supplement/zoltan_szabo_mljc_depth_function_26_06_2016.pdf)
+
+- date: 20 June 2016
+  presenter: Heiko
+  topic: Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics
+  reading: > 
+    [Gutmann & Hyvarinen, 2012](http://www.jmlr.org/papers/v13/gutmann12a.html "http://www.jmlr.org/papers/v13/gutmann12a.html")
+
+- date: 13 June 2016
+  presenter: Alex
+  topic: A Mathematical Motivation for Complex-Valued Convolutional Networks
+  reading: > 
+    [Tygert et. al., 2016](http://cognet.mit.edu/journal/10.1162/NECO_a_00824 "http://cognet.mit.edu/journal/10.1162/NECO_a_00824")
+
+- date: 6 June 2016
+  presenter: Fredrik
+  topic: Understanding predictive information criteria for Bayesian models, Bayesian leave-one-out cross-validation approximations for Gaussian latent variable models
+  reading: > 
+    [Gelman et. al., 2013](http://www.stat.columbia.edu/~gelman/research/published/waic_understand3.pdf "http://www.stat.columbia.edu/~gelman/research/published/waic_understand3.pdf"), [Vehtari et. al., 2016](http://arxiv.org/pdf/1412.7461v3.pdf "http://arxiv.org/pdf/1412.7461v3.pdf")
+
+- date: 23 May 2016
+  presenter: Wittawat
+  topic: Bayesian Learning of Kernel Embeddings
+  reading: > 
+    [Flaxman et. al., 2016](http://arxiv.org/abs/1603.02160 "http://arxiv.org/abs/1603.02160")
+
+- date: 9 May 2016
+  presenter: Carlos
+  topic: Estimation theory for stochastic gradient descent
+  reading: 
+
+- date: 25 Apr 2016
+  presenter: Kevin Li
+  topic: A Probabilistic Theory of Deep Learning
+  reading: > 
+    [Patel et. al., 2015](http://arxiv.org/abs/1504.00641 "http://arxiv.org/abs/1504.00641")
+
+- date: 18 Apr 2016
+  presenter: Vincent
+  topic: "Generalized Additive Models: An Introduction with R"
+  reading: > 
+    [Wood 2006](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R/Wood/9781584884743 "https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R/Wood/9781584884743")
+
+- date: 11 Apr 2016
+  presenter: Maneesh
+  topic: On Autoencoders and Score Matching for Energy Based Models
+  reading: >
+    [Swersky et. al., 2011](http://www.cs.toronto.edu/~ranzato/publications/Swersky_icml2011.pdf "http://www.cs.toronto.edu/~ranzato/publications/Swersky_icml2011.pdf")
+
+- date: 4 Apr 2016
+  presenter: Zoltan
+  topic: Nonparametric Independence Testing for Small Sample Sizes
+  reading: > 
+    [Ramdas & Wehbe, 2015](http://www.ijcai.org/Proceedings/15/Papers/531.pdf "http://www.ijcai.org/Proceedings/15/Papers/531.pdf")
+  supplement: > 
+    [slides](http://www.gatsby.ucl.ac.uk/~szabo/talks/MLJC_talk_Gatsby/Zoltan_Szabo_MLJC_cov_shrinkage_04_04_2016.pdf "http://www.gatsby.ucl.ac.uk/~szabo/talks/MLJC_talk_Gatsby/Zoltan_Szabo_MLJC_cov_shrinkage_04_04_2016.pdf")
+
+
+
+- date: 21 Mar 2016
+  presenter: Heiko
+  topic: Learning Structured Densities via Infinite Dimensional Exponential Families
+  reading: > 
+      [Sun et al., 2015](http://papers.nips.cc/paper/6006-learning-structured-densities-via-infinite-dimensional-exponential-families "http://papers.nips.cc/paper/6006-learning-structured-densities-via-infinite-dimensional-exponential-families")
+
+- date: 29 Feb 2016
+  presenter: Wittawat
+  topic: Bayesian Indirect Inference Using a Parametric Auxiliary Model
+  reading: > 
+      [Drovandi et al., 2015](http://arxiv.org/abs/1505.03372 "http://arxiv.org/abs/1505.03372")
+  supplement: > 
+      [slides](assets/supplement/abc_indirect_inference.pdf)
+
+- date: 15 Feb 2016
+  presenter: Song Liu
+  topic: "Estimating Density Ratio: Learning Changes of Patterns"
+  reading: > 
+      [Song Liu's homepage](http://www.ism.ac.jp/~liu/ "http://www.ism.ac.jp/~liu/")
+  supplement: >
+      [slides](assets/supplement/song_liu_density_ratio.pdf)
+
+- date: 8 Feb 2016
+  presenter: Vincent
+  topic: MCMC for Variationally Sparse Gaussian Processes
+  reading: > 
+      [Hensman et al., 2015](http://papers.nips.cc/paper/5875-mcmc-for-variationally-sparse-gaussian-processes "http://papers.nips.cc/paper/5875-mcmc-for-variationally-sparse-gaussian-processes")
+
+- date: 11 Jan 2016
+  presenter: Zoltan
+  topic: Automatic differentiation 
+  reading: > 
+      [Baydin et al., 2015](http://arxiv.org/abs/1502.05767 "http://arxiv.org/abs/1502.05767"), [Hoffmann 2015](http://link.springer.com/content/pdf/10.1007%2Fs11075-015-0067-6.pdf "http://link.springer.com/content/pdf/10.1007%2Fs11075-015-0067-6.pdf") 
+  supplement: >
+      [slides](assets/supplement/autodiff.pdf)
+
+- date: 30 Nov 2015
+  presenter: Vincent
+  topic: On Sparse variational methods and the Kullback-Leibler divergence between stochastic processes
+  reading: > 
+      [Matthews et al., 2015](http://arxiv.org/abs/1504.07027 "http://arxiv.org/abs/1504.07027")
+
+- date: 23 Nov 2015
+  presenter: Wittawat
+  topic: On the High-dimensional Power of Linear-time Kernel Two-Sample Testing under Mean-difference Alternatives
+  reading: > 
+      [Ramdas et al., 2014](http://arxiv.org/abs/1411.6314 "http://arxiv.org/abs/1411.6314")
+
+- date: 16 Nov 2015
+  presenter: Heiko
+  topic: "NYTRO: When Subsampling Meets Early Stopping"
+  reading: > 
+      [Angles et al., 2015](http://arxiv.org/abs/1510.05684 "http://arxiv.org/abs/1510.05684")
+
+- date: 9 Nov 2015
+  presenter: Arthur
+  topic: What Regularized Auto-Encoders Learn from the Data Generating Distribution
+  reading: > 
+      [Alain & Bengio, 2012](http://arxiv.org/abs/1211.4246 "http://arxiv.org/abs/1211.4246")
+
+- date: 2 Nov 2015
+  presenter: Zoltan
+  topic: Kernels Based Tests with Non-asymptotic Bootstrap Approaches for Two-sample Problems
+  reading: > 
+      [Fromont et al., 2012](http://jmlr.org/proceedings/papers/v23/fromont12/fromont12.pdf "http://jmlr.org/proceedings/papers/v23/fromont12/fromont12.pdf")
+  supplement: >
+      [slides](http://www.gatsby.ucl.ac.uk/~szabo/talks/MLJC_talk_Gatsby/Zoltan_Szabo_MLJC_Kernel_Nonasymptotic_Bootstrap.pdf "http://www.gatsby.ucl.ac.uk/~szabo/talks/MLJC_talk_Gatsby/Zoltan_Szabo_MLJC_Kernel_Nonasymptotic_Bootstrap.pdf")
+
+- date: 26 Oct 2015
+  presenter: Mijung
+  topic: Robust and Private Bayesian Inference
+  reading: > 
+      [Dimitrakakis et al., 2014](http://www.cse.chalmers.se/~aikmitr/papers/ALT2014.pdf "http://www.cse.chalmers.se/~aikmitr/papers/ALT2014.pdf")
+
+
+- date: 12 Oct 2015
+  presenter: Wittawat
+  topic: Estimating Mutual Information by Local Gaussian Approximation
+  reading: > 
+      [Gao et al., 2015](http://auai.org/uai2015/proceedings/papers/224.pdf "http://auai.org/uai2015/proceedings/papers/224.pdf")
+
+- date: 5 Oct 2015
+  presenter: Kacper
+  topic: Optimal Detection of Sparse Principal Components in High Dimension
+  reading: > 
+      [Berthet and Rigollet, 2015](http://arxiv.org/pdf/1202.5070.pdf "http://arxiv.org/pdf/1202.5070.pdf")
+
+- date: 4 Aug 2015
+  presenter: Wittawat
+  topic: Landmarking Manifolds with Gaussian Processes
+  reading: > 
+      [Liang and Paisley, 2015](http://jmlr.org/proceedings/papers/v37/liang15.html "http://jmlr.org/proceedings/papers/v37/liang15.html")
+  supplement: >
+      [slides](assets/supplement/landmarking_manifolds_gp.pdf)
+
+- date: 20 July 2015
+  presenter: Tom
+  topic: Safe Exploration for Optimization with Gaussian Processes
+  reading: > 
+      [Sui et al., 2015](http://jmlr.org/proceedings/papers/v37/sui15.pdf "http://jmlr.org/proceedings/papers/v37/sui15.pdf")
+
+- date: 29 June 2015 
+  presenter: Anna Choromanska
+  topic: The Loss Surfaces of Multilayer Networks
+  reading: > 
+      [homepage](http://www.columbia.edu/~aec2163/NonFlash/ "http://www.columbia.edu/~aec2163/NonFlash/")
+
+- date: 17 June 2015 (Wed) at 14:30
+  presenter: Arthur, Heiko
+  topic: Stochastic Gradient Hamiltonian Monte Carlo
+  reading: > 
+      [Chen et al., 2014](http://jmlr.org/proceedings/papers/v32/cheni14.html "http://jmlr.org/proceedings/papers/v32/cheni14.html")
+
+- date: 8 June 2015
+  presenter: Heiko
+  topic: Hamiltonian ABC
+  reading: > 
+      [Meeds et al., 2015](http://arxiv.org/abs/1503.01916 "http://arxiv.org/abs/1503.01916")
+  supplement: >
+      [slides](assets/supplement/hamiltonian_abc.pdf)
+
+- date: 18 May 2015
+  presenter: Wittawat
+  topic: Deep Exponential Families
+  reading: > 
+      [Ranganath et al., 2015](http://jmlr.org/proceedings/papers/v38/ranganath15.html "http://jmlr.org/proceedings/papers/v38/ranganath15.html")
+  supplement: >
+      [slides](assets/supplement/deep_expfam.pdf)
+
+- date: 11 May 2015
+  presenter: Maneesh
+  topic: "Section 7: Convex Relaxations and Upper Bounds"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+
+- date: 27 April 2015
+  presenter: Kacper
+  topic: "Section 6: Variational Methods in Parameter Estimation"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+
+- date: 20 April 2015
+  presenter: Wittawat
+  topic: "Section 5: Mean field methods"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: >
+      [slides](assets/supplement/waijor_mean_field.pdf) 
+
+- date: 23 Mar 2015
+  presenter: Vincent
+  topic: "Section 4.3: Expectation propagation"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: >
+      [slides](assets/supplement/waijor_4.3_vincent.pdf)
+
+- date: 12 Mar 2015 (16:00)
+  presenter: Zoltan
+  topic: Proof of random Fourier features
+  reading: > 
+      [Random features (Rahimi & Recht)](http://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf "http://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf")
+  supplement: >
+      [slides](assets/supplement/zoltan_szabo_mljc_rnd_kitchen_sinks_12_03_2015.pdf) 
+
+
+- date: 23 Feb 2015
+  presenter: Vincent, Alessandro
+  topic: "Section 4.1, 4.2: Bethe-Kikuchi Graphical Models, ExpFam, Variational Inference"
+  reading: > 
+      [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: >
+    [slides](assets/supplement/vincent_alex_4.2.pdf)
+
+- date: 16 Feb 2015
+  presenter: Wittawat, Heiko
+  topic: "Chapter 3, 4.1: Sum-Product, Bethe Graphical Models, ExpFam, Variational Inference" 
+  reading: >
+      [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: > 
+      [slides](assets/supplement/waijor_bethe_kikuchi_mljc.pdf)
+
+- date: 9 Feb 2015
+  presenter: Maneesh
+  topic: "Chapter 3: Graphical Models as Exponential Families"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: >
+      [Maneesh's lecture slides](http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2014/lect11-handout.pdf "http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2014/lect11-handout.pdf")
+
+- date: 26 Jan 2015
+  presenter: Tom, Maneesh
+  topic: "Chapter 1-3: Background on variational inference"
+  reading: > 
+      Graphical Models, ExpFam, Variational Inference by [Wainwright & Jordan, 2008](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf "https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf")
+  supplement: >
+      [Tom's slides](assets/supplement/wainwrightandjordanch2_tom.pdf)
+
+
+- date: 24 Nov 2014
+  presenter: Arthur, Zoltan, Tom
+  topic: NIPS preview
+  reading: > 
+      Arthur on [Ba & Caruana, NIPS 2014](http://arxiv.org/pdf/1312.6184v7.pdf "http://arxiv.org/pdf/1312.6184v7.pdf"), Zoltan on [Yang et. al., ICML 2014](http://machinelearning.wustl.edu/mlpapers/papers/icml2014c2_yangc14 "http://machinelearning.wustl.edu/mlpapers/papers/icml2014c2_yangc14"), Tom on [Frigola et. al., NIPS 2014](http://arxiv.org/pdf/1406.4905.pdf "http://arxiv.org/pdf/1406.4905.pdf")
+  supplement: >
+      [Slides by Zoltan](assets/supplement/zoltan_szabo_mljc_elementary_estimators_24_11_2014.pdf )
+
+- date: 17 Nov 2014
+  presenter: Mijung
+  topic: Auto-Encoding Variational Bayes
+  reading: > 
+      [Kingma & Welling, 2013](http://www.ics.uci.edu/~welling/publications/papers/AEVB_ICLR14.pdf "http://www.ics.uci.edu/%7Ewelling/publications/papers/AEVB_ICLR14.pdf")
+
+- date: 27 Oct 2014
+  presenter: Tom
+  topic: A Spectral Algorithm for Learning Hidden Markov Models.
+  reading: > 
+      [Hsu et. al., 2009](http://research.microsoft.com/en-us/um/people/skakade/papers/ml/LearnHMM.pdf "http://research.microsoft.com/en-us/um/people/skakade/papers/ml/LearnHMM.pdf")
+
+- date: 20 Oct 2014
+  presenter: Zoltan
+  topic: Scalable Kernel Methods via Doubly Stochastic Gradients
+  reading: > 
+      [Dai et. al., 2014](http://arxiv.org/abs/1407.5599 "http://arxiv.org/abs/1407.5599")
+  supplement: >
+      [Zoltan's slides](assets/supplement/zoltan_szabo_mljc_doublystochgrad_20_10_2014.pdf )
+
+- date: 13 Oct 2014
+  presenter: Maneesh
+  topic: spectral methods for latent time series models, SSID, spectral HMM
+  reading: > 
+      [ML course slides](http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2013/lect4-handout.pdf "http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2013/lect4-handout.pdf")
+
+- date: 6 Oct 2014
+  presenter: Balaji
+  topic: The Consensus Monte Carlo Algorithm
+  reading: > 
+      [Scott et. al., 2013](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41849.pdf "http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41849.pdf")
+
+- date: 21 Aug 2014
+  presenter: Vincent
+  topic: Gaussian Processes for Underdetermined Source Separation
+  reading: > 
+      [Liutkus, A. et. al., 2011](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5720325 "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5720325")
+
+- date: 14 Aug 2014
+  presenter: Dino, Balaji, Heiko
+  topic: "Firefly Monte Carlo: Exact MCMC with Subsets of Data"
+  reading: > 
+      [Maclaurin & Adams, 2014](http://hips.seas.harvard.edu/files/maclaurin-firefly-uai-2014.pdf "http://hips.seas.harvard.edu/files/maclaurin-firefly-uai-2014.pdf")
+
+- date: 7 Aug 2014
+  presenter: Laurence
+  topic: Bayesian Learning via Stochastic Gradient Langevin Dynamics
+  reading: > 
+      [Welling & Teh, 2011 (ICML)](http://www.gatsby.ucl.ac.uk/~ywteh/research/compstats/WelTeh2011a.pdf "http://www.gatsby.ucl.ac.uk/~ywteh/research/compstats/WelTeh2011a.pdf")
+
+- date: (2pm) 31 July 2014
+  presenter: Mijung
+  topic: Distributed Stochastic Gradient MCMC
+  reading: > 
+      [Ahn et al., 2014 (ICML)](http://jmlr.org/proceedings/papers/v32/ahn14.html "http://jmlr.org/proceedings/papers/v32/ahn14.html")
+
+
+- date: 16 May 2014
+  presenter: Zoltan
+  topic: Fastfood (Fast kernel approximation methods)
+  reading: > 
+      [Fastfood (Le et al., 2013)](http://jmlr.org/proceedings/papers/v28/le13-supp.pdf "http://jmlr.org/proceedings/papers/v28/le13-supp.pdf")
+  supplement: >
+      [Slides by Zoltan](assets/supplement/zoltan_szabo_mljc_fastfood_16_05_2014.pdf )
+
+- date: 9 May 2014
+  presenter: Dino, Arthur
+  topic: Random features & Random kitchen sinks
+  reading: > 
+      [Random features (Rahimi & Recht)](http://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf "http://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf").  [Random kitchen sinks (Rahimi & Recht)](http://www.eecs.berkeley.edu/~brecht/papers/08.rah.rec.nips.pdf "http://www.eecs.berkeley.edu/~brecht/papers/08.rah.rec.nips.pdf")
+  supplement: >
+      [Random features by Arthur](http://wittawat.com/mljc/lib/exe/fetch.php?media=file:randomfeaturesrahimirecht.pdf "file:randomfeaturesrahimirecht.pdf (1.8 MB)"), [Random kitchen sinks by Dino](http://wittawat.com/mljc/lib/exe/fetch.php?media=file:kitchen_sinks.pdf "file:kitchen_sinks.pdf (357.9 KB)")
+
+
+- date: 4 Apr 2014
+  presenter: Balaji
+  topic: Variational Learning of Inducing Variables in Sparse Gaussian Processes
+  reading: > 
+      [Titsias 2009 (AISTATS)](http://jmlr.org/proceedings/papers/v5/titsias09a/titsias09a.pdf "http://jmlr.org/proceedings/papers/v5/titsias09a/titsias09a.pdf")
+  supplement: >
+      [slides](http://www.aueb.gr/users/mtitsias/papers/BARK08titsias.pdf "http://www.aueb.gr/users/mtitsias/papers/BARK08titsias.pdf") 
+
+- date: 28 Mar 2014
+  presenter: Heiko
+  topic: Bayesian Gaussian Process Latent Variable Model
+  reading: > 
+      [Titsias & Lawrence 2010 (AISTATS)](http://jmlr.org/proceedings/papers/v9/titsias10a/titsias10a.pdf "http://jmlr.org/proceedings/papers/v9/titsias10a/titsias10a.pdf")
+  supplement: >
+      [slides](assets/supplement/bayesian_gaussian_process_latent_variable_model.pdf "file:bayesian_gaussian_process_latent_variable_model.pdf (454.5 KB)")
