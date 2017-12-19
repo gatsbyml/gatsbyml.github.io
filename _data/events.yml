@@ -1,6 +1,95 @@
+- date: 18/12/2017
+  presenter: Michael
+  topic: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash 
+  reading: >
+      [Heusel et al., 2017](https://arxiv.org/abs/1706.08500)
 
 
-- date: 3/7/2016
+- date: 27/11/2017
+  presenter: Dougal
+  topic: Generalization in Deep Learning.
+  reading: >
+      [Kawaguchi et al., 2017](https://arxiv.org/abs/1710.05468)
+
+
+- date: 20/11/2017
+  presenter: Yisong Yue
+  topic: 
+  reading: >
+      [Le et al., 2017](http://www.yisongyue.com/publications/icml2017_coordinated_long.pdf)
+
+
+- date: 13/11/2017
+  presenter: Nicolas Keriven
+  topic: Sketching for Large-Scale Learning of Mixture Models 
+  reading: >
+      [Keriven et al., 2017](https://arxiv.org/abs/1606.02838)
+
+
+- date: 6/11/2017
+  presenter: Mikolaj Kasprzak
+  topic: Stein’s method for functional approximations
+  reading: >
+      [Kasprzak et al., 2017](https://arxiv.org/abs/1710.09263)
+
+
+- date: 30/10/2017
+  presenter: Wenkai
+  topic: Expectation Propagation in the large-data limit
+  reading: >
+      [Dehaene et al., 2017](https://arxiv.org/pdf/1503.08060.pdf)
+
+
+- date: 23/10/2017
+  presenter: Heiko
+  topic: Gradient Estimators for Implicit Models
+  reading: >
+      [Li et al., 2017](https://arxiv.org/abs/1705.07107)
+
+
+- date: 16/10/2017
+  presenter: Dougal
+  topic: Optimally Learning Populations of Parameters
+  reading: >
+      [Tian et al., 2017](https://arxiv.org/abs/1709.02707)
+
+
+- date: 9/10/2017
+  presenter: Tamara 
+  topic: Bayesian learning of kernel embeddings
+  reading: >
+      [Flaxman et al., 2017](https://arxiv.org/abs/1603.02160)
+
+
+- date: 18/9/2017
+  presenter: Michael
+  topic: Learning Infinite Layer Networks Without the Kernel Trick
+  reading: >
+      [Livni et al., 2017](http://proceedings.mlr.press/v70/livni17a.html)
+
+
+- date: 24/7/2017
+  presenter: Heiko 
+  topic: Fast DPP sampling for Nystrom with application to kernel methods
+  reading: >
+      [Li et al., 2016](https://arxiv.org/abs/1603.06052)
+
+
+- date: 17/7/2017
+  presenter: Dougal 
+  topic: Fast and Provably Good Seedings for k-Means
+  reading: >
+      [Bachem et al., 2016](https://las.inf.ethz.ch/files/bachem16fast.pdf)
+
+
+- date: 10/7/2017
+  presenter: Wittawat 
+  topic: A Linear time Kernel Goodness-of-Fit Test
+  reading: >
+      [Wittawat et al., 2017](https://arxiv.org/abs/1705.07673)
+
+
+- date: 3/7/2017
   presenter: Maneesh
   topic: Deep Gaussian Processes for Regression using Approximate Expectation Propagation
   reading: >
@@ -9,28 +98,28 @@
       [whiteboard](assets/supplement/deep_gp_appro_ep.jpg)
 
 
-- date: 19/6/2016
+- date: 19/6/2017
   presenter: Michael
   topic: Local Group Invariant Representations via Orbit Embeddings
   reading: >
       [Raj et al., 2017](http://proceedings.mlr.press/v54/raj17a.html)
 
 
-- date: 12/6/2016
+- date: 12/6/2017
   presenter: > 
       [Chris J. Maddison](http://www.stats.ox.ac.uk/~cmaddis/)
   topic: Filtering Variational Objectives
   reading: > 
       [Maddison et al., 2017](https://arxiv.org/abs/1705.09279)
 
-- date: 5/6/2016
+- date: 5/6/2017
   presenter: Wenkai
   topic: Conditional Mean Embeddings for Model-Based Reinforcement 
   reading: >
       [Lever et al., 2016](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12436/11804)
 
 
-- date: 8/5/2016
+- date: 8/5/2017
   presenter: >
       [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=it)
   topic: A Consistent Regularization Approach for Structured Prediction
@@ -38,7 +127,7 @@
       [Ciliberto et al., 2016](http://papers.nips.cc/paper/6093-a-consistent-regularization-approach-for-structured-prediction)
 
 
-- date: 10/4/2016
+- date: 10/4/2017
   presenter: Dougal
   topic: >
       *  Wasserstein GAN
@@ -50,17 +139,17 @@
     [Arjovsky et al., 2017](https://arxiv.org/abs/1701.07875), [Gulrajani et al., 2017](https://arxiv.org/abs/1704.00028), [Arora et al., 2017](https://arxiv.org/abs/1703.00573)
 
 
-- date: 3/4/2016
+- date: 3/4/2017
   presenter: Heiko
   topic: Variational Fourier features for Gaussian processes
   reading: >
       [Hensman et al., 2016](https://arxiv.org/abs/1611.06740)
 
-- date: 20/3/2016
+- date: 20/3/2017
   presenter: >
       [Kenji Fukumizu](http://www.ism.ac.jp/~fukumizu/)
 
-- date: 27/2/2016
+- date: 27/2/2017
   presenter: Dougal
   topic: >
       * Equality of Opportunity in Supervised Learning. 
@@ -73,7 +162,7 @@
 
 
 
-- date: 20/2/2016
+- date: 20/2/2017
   presenter: Wenkai
   topic: >
       * Showing versus doing: Teaching by demonstration
@@ -83,18 +172,18 @@
       [Ho et al., 2016](https://papers.nips.cc/paper/6413-showing-versus-doing-teaching-by-demonstration), [Ho et al., 2015](https://www.semanticscholar.org/paper/Teaching-with-Rewards-and-Punishments-Ho-Littman/16b094dd8ce70ce4a73886de1bbbcf0472805ada)
 
 
-- date: 13/2/2016
+- date: 13/2/2017
   presenter: Michael
   topic: Conditioning as disintegration
   reading: >
       [Chang & Pollard, 1995](http://www.stat.yale.edu/~jtc5/papers/ConditioningAsDisintegration.pdf)
 
-- date: 6/2/2016
+- date: 6/2/2017
   presenter: >
       [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
   topic: "RedQueen: An Online Algorithm for Smart Broadcasting in Social Networks"
 
-- date: 16/1/2016
+- date: 16/1/2017
   presenter: Wittawat 
   topic: Examples are not Enough, Learn to Criticize! Criticism for Interpretability 
   reading: >
